@@ -13,3 +13,5 @@ Step 3: Making a conclusion on how well the model performs.
 And the ouput gives 76% accuracy using MultiLinear Reggresor.
 
 ![r](https://user-images.githubusercontent.com/53990920/103866616-0c12e180-50ec-11eb-8013-a5ab94225a1e.png)
+
+The output can work better with SVM.
